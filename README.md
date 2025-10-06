@@ -1,2 +1,2 @@
 # Pasuko
-Only uoload a software
+Only upload a software
