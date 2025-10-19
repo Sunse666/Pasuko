@@ -1,2 +1,2 @@
 # Pasuko
-Only upload a software
+[English](README.md) · [简体中文](README.md)
