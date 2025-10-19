@@ -39,3 +39,20 @@ This is a clipboard application used to extend the functionality of the original
 <p>pic</p>
 
 - Press `Esc` to close the panel, you will find Pasuko in the tray, `Ctrl+Shift+V` is for the original paste.
+
+> [!TIP]
+> |Normal|Keys|Function|
+> |---|---|---|
+> ||J|Select the next item|
+> ||K|Select the previous item|
+> ||Tab|Enter selected item|
+> ||F|Search|
+> ||I|Edit|
+> ||D|Delete|
+> ||Esc|Close panel|
+> |Search|||
+> ||Enter|Search item|
+> ||Esc|Cancel search|
+> |Edit|||
+> ||Enter|Editing completed|
+> ||Esc|Cancel editing|
