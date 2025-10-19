@@ -60,3 +60,6 @@ This is a clipboard application used to extend the functionality of the original
 > |Edit|||
 > ||Enter|Editing completed|
 > ||Esc|Cancel editing|
+
+---
+ps: In some Chromium-based software, using Pasuko may fail to position the cursor correctly, in which case the panel will appear in the top left corner.
