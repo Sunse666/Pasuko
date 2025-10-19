@@ -40,7 +40,7 @@
 
 - 若不需要某些项，按D删除，当Pasuko中没有内容时，`Ctrl+V`将不再打开面板喵~。
 
-![pic5](./assets/images/pic5.png)  ![pic5](./assets/images/pic5.png)
+![pic5](./assets/images/pic5.png)  ![pic6](./assets/images/pic6.png)
 
 - 按Esc关闭面板，汝将可以在托盘中找到Pasuko喵，`Ctrl+Shift+V`就是原版粘贴喵です。
 
@@ -60,3 +60,6 @@
 > |编辑|||
 > ||Enter|完成编辑|
 > ||Esc|取消编辑|
+
+---
+ps:在一些Chromium内核的软件使用Pasuko可能会出现定位光标失败的情况，这时面板会出现在左上角。
