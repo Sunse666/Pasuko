@@ -38,4 +38,4 @@ This is a clipboard application used to extend the functionality of the original
 
 <p>pic</p>
 
-- 
+- Press `Esc` to close the panel, you will find Pasuko in the tray, `Ctrl+Shift+V` is for the original paste.
