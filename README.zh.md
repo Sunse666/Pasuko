@@ -1,0 +1,37 @@
+# Pasuko
+
+<p align="center" style="text-align: center">
+  <img src="./assets/images/logo.png" width="55%"><br/>
+</p>
+
+<div align="center">
+<strong>
+<samp>
+
+[English](README.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) ·
+[한국어](README.ko.md) · [Español](README.es.md) · [Português](README.pt-br.md) ·
+[Русский](README.ru.md) · [Francais](README.fr.md) · [Uzbek](README.uz.md) · [Deutsch](README.de.md) ·
+[Türkçe](README.tr.md)
+
+</samp>
+</strong>
+</div>
+
+---
+这是一个剪贴板应用，用于扩展windows原版剪贴板的功能
+
+## 食用方法：
+
+- 打开Pasuko后，按下组合键Ctrl+V可以打开面板（当然，你需要保证打开Pasuko后复制过内容），面板中的内容是按时间排序的。
+
+<p>pic</p>
+
+- 按J、K键可以上下切换选中项，按tab将选中项输入当前光标（插入符）处，注意这是逐字输入的。
+
+<p>pic</p>
+
+- 如果你复制的条目过多，你可以选择在正常模式下按F键进入搜索模式。此模式会新增一个文本框(edit)，输入文本查找内容，就如同你使用其他具有提示的编辑器一样。发现需要的内容后按下Enter，J、K选择，tab输入，输入完成后就会退回到正常模式。若想取消搜索或该结果是你不想要的，按Esc退出搜索。
+
+<p>pic</p>
+
+- 
