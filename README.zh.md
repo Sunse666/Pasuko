@@ -40,7 +40,7 @@
 
 - 若不需要某些项，按D删除，当Pasuko中没有内容时，`Ctrl+V`将不再打开面板喵~。
 
-![pic5](./assets/images/pic5.png)
+![pic5](./assets/images/pic5.png)  ![pic5](./assets/images/pic5.png)
 
 - 按Esc关闭面板，汝将可以在托盘中找到Pasuko喵，`Ctrl+Shift+V`就是原版粘贴喵です。
 
