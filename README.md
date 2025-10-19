@@ -24,19 +24,19 @@ This is a clipboard application used to extend the functionality of the original
 
 - After opening Pasuko, pressing the `Ctrl+V` key combination can open the panel (of course, you need to make sure you have copied something after opening Pasuko), and the content in the panel is sorted by time.
 
-<p>pic</p>
+![pic1](./assets/images/pic1.png)
 
 - If you copy too many entries, you can choose to press the `F` key in normal mode to enter search mode. This mode adds a text box (edit); enter text to search, just like using other editors with prompts. After finding the content you need, press Enter, use `J` and `K` to select, `Tab` to input, and after input is complete, it will return to normal mode. If you want to cancel the search or the result is not what you want, press `Esc` to exit the search.
 
-<p>pic</p>
+![pic2](./assets/images/pic2.png)
 
 - Press `I` to enter edit mode in normal mode, where you can modify the text in each item, press `Enter` to save, and press `Esc` to discard.
 
-<p>pic</p>
+![pic3](./assets/images/pic3.png)
 
 - If certain items are not needed, press `D` to delete, and when there is no content in Pasuko, `Ctrl+V` will no longer open the panel.
 
-<p>pic</p>
+![pic4](./assets/images/pic4.png)
 
 - Press `Esc` to close the panel, you will find Pasuko in the tray, `Ctrl+Shift+V` is for the original paste.
 
