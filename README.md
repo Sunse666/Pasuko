@@ -30,7 +30,7 @@ This is a clipboard application used to extend the functionality of the original
 
 ![pic2](./assets/images/pic2.png)
 
-- If you copy too many entries, you can choose to press the `F` key in normal mode to enter search mode. This mode adds a text box (edit); enter text to search, just like using other editors with prompts. After finding the content you need, press Enter, use `J` and `K` to select, `Tab` to input, and after input is complete, it will return to normal mode. If you want to cancel the search or the result is not what you want, press `Esc` to exit the search.
+- If you copy too many entries, you can choose to press the `F` key in normal mode to enter search mode. This mode adds a text box (edit); `Enter` text to search, just like using other editors with prompts. After finding the content you need, press Enter, use `J` and `K` to select, `Tab` to input, and after input is complete, it will return to normal mode. If you want to cancel the search or the result is not what you want, press `Esc` to exit the search.
 
 ![pic3](./assets/images/pic3.png)
 
