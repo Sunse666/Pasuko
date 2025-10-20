@@ -20,7 +20,7 @@ Dies ist eine Zwischenablage-Anwendung, die verwendet wird, um die Funktionalit�
 
 ![pic1](./assets/images/pic1.png)
 
-- Dr체cken Sie `J` und `K`, um die Auswahl nach oben und unten zu bewegen, dr체cken Sie Tab, um das ausgew채hlte Element an der aktuellen Cursorposition einzugeben; beachten Sie, dass dies ein Zeichen nach dem anderen eingibt.
+- Dr체cken Sie `J` und `K`, um die Auswahl nach oben und unten zu bewegen, dr체cken Sie `Tab`, um das ausgew채hlte Element an der aktuellen Cursorposition einzuf체gen; beachten Sie, dass dabei jeweils ein Zeichen auf einmal eingef체gt wird.
 
 ![pic2](./assets/images/pic2.png)
 
