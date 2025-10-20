@@ -26,7 +26,7 @@ This is a clipboard application used to extend the functionality of the original
 
 ![pic1](./assets/images/pic1.png)
 
-- Press `J` and `K` to move the selection up and down, press Tab to input the selected item at the current cursor position; note that this inputs one character at a time.
+- Press `J` and `K` to move the selection up and down, press `Tab` to input the selected item at the current cursor position; note that this inputs one character at a time.
 
 ![pic2](./assets/images/pic2.png)
 
